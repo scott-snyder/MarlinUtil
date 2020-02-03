@@ -471,7 +471,7 @@ void DDMarlinCED::drawDD4hepDetector( dd4hep::Detector& lcdd, bool _surfaces, St
   // some models might not have a SurfaceManager extension:
   dd4hep::rec::SurfaceManager* sM = 0 ;
   try{  sM = lcdd.extension<dd4hep::rec::SurfaceManager>();
-  } catch( std::runtime_error ) {
+  } catch( const std::runtime_error& ) {
     lcdd.apply( "InstallSurfaceManager",0,0);
     sM = lcdd.extension<dd4hep::rec::SurfaceManager>();
   }
