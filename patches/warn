@@ -1,6 +1,0 @@
-Bottom: d7c4226d335a705557c72162db5d3b9ef73474ca
-Top:    d7c4226d335a705557c72162db5d3b9ef73474ca
-Author: scott snyder <sss@karma>
-Date:   2024-11-10 23:25:23 -0500
-
-Fix compilation warnings.
