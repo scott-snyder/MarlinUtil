@@ -1,0 +1,9 @@
+Bottom: 413c7f3363e73043d1787537acd32c09db73a709
+Top:    413c7f3363e73043d1787537acd32c09db73a709
+Author: sss <sss@karma>
+Date:   2025-05-09 10:02:08 -0400
+
+MarlinUtil: Fix clang warnings.
+
+Unused variables/members.
+Precision loss in int->float conversion.
