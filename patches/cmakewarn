@@ -1,0 +1,6 @@
+Bottom: f11fc4a13c5391f004d2fd5bc3c3f60d0a84d3d0
+Top:    f11fc4a13c5391f004d2fd5bc3c3f60d0a84d3d0
+Author: sss <sss@karma>
+Date:   2025-08-01 14:25:42 -0400
+
+Suppress cmake dev warnings.
