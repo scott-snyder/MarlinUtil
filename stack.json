@@ -1,12 +1,13 @@
 {
   "version": 5,
-  "prev": "84a9702cb963c0e8631fe60405e8001c881d75c3",
-  "head": "977eff886ff5f00c9a25f9f725f723ef364610a9",
+  "prev": "7207910a86d4e1548860dd7e393fc7af7f12654c",
+  "head": "056a33388e712c6dc31b3ae19c10b23569608b6f",
   "applied": [
     "gitignore",
     "clang.MarlinUtil",
     "cmakewarn",
-    "nosystem"
+    "nosystem",
+    "novla"
   ],
   "unapplied": [],
   "hidden": [],
@@ -22,6 +23,9 @@
     },
     "nosystem": {
       "oid": "977eff886ff5f00c9a25f9f725f723ef364610a9"
+    },
+    "novla": {
+      "oid": "056a33388e712c6dc31b3ae19c10b23569608b6f"
     }
   }
 }
