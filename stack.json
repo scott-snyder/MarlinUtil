@@ -1,7 +1,7 @@
 {
   "version": 5,
-  "prev": "47d02a83084524a3cbb1679897114930e8474265",
-  "head": "028f3b3932e2b0b9ebf56e008fe58bd0d53502cb",
+  "prev": "2b491f8442841721f6b60887fc49a2fe4a6a8cb1",
+  "head": "99ec9ab7b75beb7d3f428530d9d8708184b9afce",
   "applied": [
     "gitignore",
     "cmakewarn",
@@ -14,22 +14,22 @@
   "hidden": [],
   "patches": {
     "clang.MarlinUtil": {
-      "oid": "6998c623291e1d51aff4a355aa8e6cf67ef06ce6"
+      "oid": "ebabaae579d371409499e5dfa007b865aaf9ada5"
     },
     "cmakewarn": {
-      "oid": "0ff0797b9c591c5446f5c86c009a203797dcbfff"
+      "oid": "d9c9cd015d47200dd955cb993086f7432815babd"
     },
     "gitignore": {
       "oid": "a6beeb90bcada06f7ee1c1ff20402a59911f3172"
     },
     "nosystem": {
-      "oid": "8232c35fd68e0f234d226305ddef21b229700065"
+      "oid": "9cf5e8a5a7d821e026b366c37751b6b2df9fb193"
     },
     "novla": {
-      "oid": "002c122ba7d3f9920bbeed0a5cc02bfb3cd90b5d"
+      "oid": "a0d208736bbb5ea86ceffee8d5ca4acacbfdbbf0"
     },
     "warn": {
-      "oid": "028f3b3932e2b0b9ebf56e008fe58bd0d53502cb"
+      "oid": "99ec9ab7b75beb7d3f428530d9d8708184b9afce"
     }
   }
 }
