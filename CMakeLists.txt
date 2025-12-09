@@ -5,6 +5,7 @@ CMAKE_MINIMUM_REQUIRED(VERSION 3.10 FATAL_ERROR)
 ########################################################
 
 cmake_policy(SET CMP0167 NEW)
+cmake_policy(SET CMP0074 NEW)
 cmake_policy(SET CMP0177 OLD)
 
 # project name
