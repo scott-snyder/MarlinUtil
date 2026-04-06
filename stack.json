@@ -1,19 +1,19 @@
 {
   "version": 5,
-  "prev": "2b52e7ea04a159a9b02e244b1d44e61d4e772ca9",
+  "prev": "fb0772d923677da454b539a685f68ce014f5ea4b",
   "head": "1b8733673257c6ef36833dde45b76bbc8d199f5e",
   "applied": [
     "gitignore",
     "cmakewarn",
     "nosystem",
     "novla",
-    "clang.MarlinUtil",
+    "clang",
     "warn"
   ],
   "unapplied": [],
   "hidden": [],
   "patches": {
-    "clang.MarlinUtil": {
+    "clang": {
       "oid": "7053a9a78abc618fb3ae072fd3e2f1e1615dbd85"
     },
     "cmakewarn": {
