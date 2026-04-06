@@ -295,7 +295,7 @@ protected:
 
   // FIXME: Not so elegant, refine! Use iterators, templates etc. See drawHitCollectionsByType(...).
   // helper method to draw hit collections by MC Contribution
-  static void drawHitCollectionsByMCContribution(LCEvent* event, MCParticle* mcp, int marker, int size, 
+  static void drawHitCollectionsByMCContribution(LCEvent* event, MCParticle* mcp, int marker, int size,
              unsigned int color, unsigned int layer=0) {
     
     std::vector< std::string >::const_iterator iter;
