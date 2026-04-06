@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "prev": "6959a4afce86dacb6333c19485268393d28d0640",
+  "prev": "621a4939fb3a4ce808209d318bf455118b3fab05",
   "head": "36f7ead1c4dfa9a92c7f0146c50309f8bc6ef11f",
   "applied": [
     "gitignore",
@@ -8,7 +8,7 @@
     "novla",
     "clang",
     "warn",
-    "cmakeves"
+    "cmakevers"
   ],
   "unapplied": [
     "cmakewarn"
@@ -18,7 +18,7 @@
     "clang": {
       "oid": "4da7516f60544e483e07a33d548f1bf9a0d15045"
     },
-    "cmakeves": {
+    "cmakevers": {
       "oid": "36f7ead1c4dfa9a92c7f0146c50309f8bc6ef11f"
     },
     "cmakewarn": {
