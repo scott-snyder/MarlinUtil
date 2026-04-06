@@ -1,22 +1,21 @@
 {
   "version": 5,
-  "prev": "7ed93d005cdde4e7fd080549cf27bc67fc6402dd",
-  "head": "fc85137d1ac66ac59e3cb52e145133acfabd0db9",
+  "prev": "a9c938537b1c26b439802297feef24917ea3bcc7",
+  "head": "5cf3dbf617f454e4606651a04579501778cf4e92",
   "applied": [
     "gitignore",
     "nosystem",
     "cmakevers",
     "cmakewarn",
     "novla",
-    "warn"
-  ],
-  "unapplied": [
+    "warn",
     "clang"
   ],
+  "unapplied": [],
   "hidden": [],
   "patches": {
     "clang": {
-      "oid": "e489f77b837597b0b17f9c42b372e4648f3e7685"
+      "oid": "5cf3dbf617f454e4606651a04579501778cf4e92"
     },
     "cmakevers": {
       "oid": "b8b413c30ffffcedba1813e9d2a50feee7e0379b"
