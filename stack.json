@@ -1,15 +1,14 @@
 {
   "version": 5,
-  "prev": "8bb84caf8a6899a41f005c9cd85a414d5e3e6f6c",
-  "head": "80e339f1cf7184cd472aafad65d58f4439e94d6c",
+  "prev": "192b49ff3b14eca6858724483d95047859a76729",
+  "head": "029ad9f58a35cf07a13b6c8c91ea261243357dab",
   "applied": [
     "gitignore",
     "nosystem",
     "novla",
     "clang",
     "warn",
-    "cmakevers",
-    "refresh-temp"
+    "cmakevers"
   ],
   "unapplied": [
     "cmakewarn"
@@ -20,7 +19,7 @@
       "oid": "4da7516f60544e483e07a33d548f1bf9a0d15045"
     },
     "cmakevers": {
-      "oid": "36f7ead1c4dfa9a92c7f0146c50309f8bc6ef11f"
+      "oid": "029ad9f58a35cf07a13b6c8c91ea261243357dab"
     },
     "cmakewarn": {
       "oid": "93a43e8ca686a6aad25efd111c0f72f1272ff078"
@@ -33,9 +32,6 @@
     },
     "novla": {
       "oid": "28dacb5a22d779a7ad40c9207762058a12a03de7"
-    },
-    "refresh-temp": {
-      "oid": "80e339f1cf7184cd472aafad65d58f4439e94d6c"
     },
     "warn": {
       "oid": "498e8d394de25e9b3e6189cca4b7714838dcb5e7"
