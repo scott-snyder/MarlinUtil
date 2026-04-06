@@ -1,0 +1,8 @@
+Bottom: 5e6cddb29f9249ce90746128696a71482c75ddde
+Top:    5e6cddb29f9249ce90746128696a71482c75ddde
+Author: sss <sss@karma>
+Date:   2026-04-06 16:50:17 -0400
+
+Update minimum cmake version to 3.10.
+
+Fix deprecation warnings.
